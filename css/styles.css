@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    font-family: 'arial';
+    font-size: 10px;
+    line-height: 1.7;
+    color: #777;
+    scroll-behavior: smooth;
+
+}
+
+canvas {
+    background-color: black;
+    filter: blur(0.5px);
+    display: block
+}
